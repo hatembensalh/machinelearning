@@ -1,0 +1,6 @@
+Business Understanding​ : All team
+Data​ Understanding​ : Imen Abes
+Data Preparation : - dealing with missing values : Hatem Bensalah 
+                   - Data Encoding : Med Malek Chamakh
+Modeling : Amine Chakroun and Taher Toumi
+Model selection : All team
